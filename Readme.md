@@ -8,6 +8,10 @@ Tools used:
 - Bundler: **webpack**
 - Compiler: **babel**
 
+## Live Website-link:
+
+https://react-app-using-webpack.netlify.app/
+
 ## Dependencies of this setup:
 
 - **react** : The react package contains only the functionality necessary to define React components.It is typically used together with a React renderer like react-dom for the web.
@@ -35,7 +39,13 @@ Tools used:
 
 ## Installation
 
-To get started, clone this repository to your local machine and install the dependencies using npm.
+To get started, run below command in your terminal/cmd:
+
+```
+
+npx @gunjan_2001/create-react-app-using-webpack YOUR-PROJECT-NAME
+
+```
 
 ## Development
 
